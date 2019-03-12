@@ -1,0 +1,79 @@
+{
+  "events": [
+    {
+      "id": 1,
+      "eventName": "hello",
+      "eventStartTime": "2019-03-10T16:00:00-04:00",
+      "eventEndTime": "2019-03-10T18:00:00-04:00",
+      "eventType": "Webinar",
+      "location": "RRH 203",
+      "address": "123 S. Cool St.",
+      "eventAudience": "Alumni",
+      "department": "MSMIT",
+      "status": 1,
+      "description": "This is description text",
+      "isPinned": 0,
+      "displayOnWeb": 1
+    },
+    {
+      "id": 1,
+      "eventName": "hello",
+      "eventStartTime": "2019-03-10T16:00:00-04:00",
+      "eventEndTime": "2019-03-10T18:00:00-04:00",
+      "eventType": "Virtual",
+      "location": "RRH 203",
+      "address": "123 S. Cool St.",
+      "eventAudience": "Alumni",
+      "department": "MSMIT",
+      "status": 1,
+      "description": "This is description text",
+      "isPinned": 0,
+      "displayOnWeb": 1
+    },
+    {
+      "id": 2,
+      "eventName": "Business Analytics Webinar",
+      "eventStartTime": "2019-03-10T16:00:00-04:00",
+      "eventEndTime": "2019-03-10T18:00:00-04:00",
+      "eventType": ["Webinar", "In-Person"],
+      "location": "RRH 203",
+      "address": "123 S. Cool St.",
+      "eventAudience": "Prospective Students",
+      "department": "MSBA",
+      "status": 1,
+      "description": "This is description text",
+      "isPinned": 0,
+      "displayOnWeb": 1
+    },
+    {
+      "id": 3,
+      "eventName": "Knowledge Continuum",
+      "eventStartTime": "2019-03-10T16:00:00-04:00",
+      "eventEndTime": "2019-03-10T18:00:00-04:00",
+      "eventType": "Forum",
+      "location": "RRH 203",
+      "address": "123 S. Cool St.",
+      "eventAudience": "Alumni",
+      "department": "CMIT",
+      "status": 1,
+      "description": "This is description text",
+      "isPinned": 1,
+      "displayOnWeb": 1
+    },
+    {
+      "id": 4,
+      "eventName": "Career Fair",
+      "eventStartTime": "2019-03-10T16:00:00-04:00",
+      "eventEndTime": "2019-03-10T18:00:00-04:00",
+      "eventType": "In-Person",
+      "location": "RRH 203",
+      "address": "123 S. Cool St.",
+      "eventAudience": "Current",
+      "department": "Career Services",
+      "status": 1,
+      "description": "This is description text",
+      "isPinned": 0,
+      "displayOnWeb": 1
+    }
+  ]
+}
